@@ -418,3 +418,26 @@
     background-color: rgb(176, 24, 49);
     color: white;
 }
+
+/* Footer */
+
+footer{
+    padding: 40px 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Footer-tag h2{
+    font-size: 1.5rem;
+    margin: 20px 0;
+}
+
+.Footer-tag {
+    text-align: center;
+}
+
+.Footer-tag p{
+    margin: 10px;
+}
